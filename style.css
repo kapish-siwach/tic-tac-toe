@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(73,123,122) !important;
+}
+
+.btnarea{
+    border: 1px solid black;
+    height: 20vh !important;
+    width: 30% !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+    border-radius: 10px;
+    font-size: 12vh !important;
+    text-align: center;
+}
+.masterDiv{
+    width: 100vh !important;
+}
+
+
